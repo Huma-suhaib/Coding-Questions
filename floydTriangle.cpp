@@ -16,3 +16,5 @@ for(int j=1;j<=i;j++){
 
 cout<<endl;
 }
+return 0;
+}
